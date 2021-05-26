@@ -1,0 +1,86 @@
+body {
+    background-color: yellow;
+}
+
+.container {
+    width: 25%;
+    height: 60%;
+    background-color: rgb(255, 253, 131);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.inside {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.input {
+    margin-top: 30px;
+}
+
+#fname {
+    width: 330px;
+    height: 50px;
+    background-color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    letter-spacing: 10px;
+    text-align-last: right;
+}
+
+.first {
+    width: 500px;
+    padding-top: 30px;
+}
+
+.first button {
+    width: 80px;
+    height: 50px;
+    background-color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+.second {
+    width: 500px;
+    padding-top: 20px;
+}
+
+.second button {
+    width: 80px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    background-color: yellow;
+}
+
+.third {
+    width: 500px;
+    padding-top: 20px;
+}
+
+.third button {
+    width: 80px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    background-color: yellow;
+}
+
+.fourth {
+    width: 500px;
+    padding-top: 20px;
+}
+
+.fourth button {
+    width: 80px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    background-color: yellow;
+}
